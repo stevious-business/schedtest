@@ -93,7 +93,6 @@ int main(){
 	printf("Freeing queue\n");
 	free_queue(queue);
 	free(letter_A);
-	free(letter_B);
 
 	exit(0);
 }
